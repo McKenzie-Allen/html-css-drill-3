@@ -16,11 +16,6 @@ header {
     width: 75px;
 }
 
-#textcontain {
-    background-color: #ffffff;
-    height: 50vh;
-}
-
 #textcontain p {
     padding: 25px;
     font-size: small;
